@@ -16,10 +16,6 @@ Welcome to my portfolio repository! This repository showcases my skills, project
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Python**
-- **React** (if used)
-- **Node.js** (if used)
-- **Other technologies** (List any others relevant to your portfolio)
 
 ## 🌐 How to View
 
